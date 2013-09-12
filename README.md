@@ -15,4 +15,4 @@ We need:
   - #savethenbn twitter feed
   - facebook like input (show count in real time)
   - twitter follow input (show count in real time)
-  - email form too various 
+  - email form too various politicians with their images
